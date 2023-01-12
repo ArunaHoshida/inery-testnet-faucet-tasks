@@ -6,7 +6,7 @@
   "scripts": {
     "solution": "node ./solution.mjs"
   },
-  "author": "ArunaHoshida",
+  "author": "oval",
   "license": "MIT",
   "repository": {
     "type": "git",
